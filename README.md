@@ -1,5 +1,3 @@
-![I am saifulemon](https://github.com/saifulemon/saifulemon/blob/main/img-repo.png)
-
 
 <h1 align="center">Hi 👋, I'm Saiful Emon</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
