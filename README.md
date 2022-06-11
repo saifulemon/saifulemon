@@ -4,13 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saifulemon&label=Profile%20views&color=0e75b6&style=flat" alt="saifulemon" /> </p>
 
 # 💫About Me :
-seedling I’m currently learning Node.JS, React, Python, TypeScript
+- 🌱 I’m currently learning **Node.JS, React, Python, TypeScript**
 
-man_technologist All of my projects are available at https://github.com/saifulemon
+- 👨‍💻 All of my projects are available at https://github.com/saifulemon
 
-speech_balloon Ask me about HTML5, CSS3, JavaScript, Bootstrap
+- 💬 Ask me about **JavaScript, React, Bootstrap, HTML5, CSS3 **
 
-mailbox How to reach me 463saiful0@gmail.com
+- 📫 How to reach me **463saiful0@gmail.com**
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/463saiful0/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/saiful_emon1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/saiful-emon) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/saifulemon20) 
