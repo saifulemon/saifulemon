@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Saiful Emon</h1>
+<h1 align="center">Hi <img src="https://github.com/saifulemon/saifulemon/blob/2d2b0b4c716e77ce3d655846321a9ca05f6efe21/Wave.gif" height="55px" width="55px">, I'm Saiful Emon</h1>
 <h3 align="center">A passionate Frontend Web Developer from Bangladesh</h3>
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saifulemon&label=Profile%20views&color=0e75b6&style=flat" alt="saifulemon" /> </p>
