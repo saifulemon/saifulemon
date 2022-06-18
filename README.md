@@ -1,3 +1,7 @@
+<p align="center">
+  <img alt="GIF" height="275" src="https://github.com/saifulemon/saifulemon/blob/main/hello.gif" />
+</p>
+
 <h1 align="center">Hi <img src="https://github.com/saifulemon/saifulemon/blob/2d2b0b4c716e77ce3d655846321a9ca05f6efe21/Wave.gif" height="55px" width="55px">, I'm Saiful Emon</h1>
 <h3 align="center">A passionate Frontend Web Developer from Bangladesh</h3>
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
