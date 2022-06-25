@@ -8,6 +8,7 @@
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saifulemon&label=Profile%20views&color=0e75b6&style=flat" alt="saifulemon" /> </p>
 
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 # 💫 About Me :
 - 🌱 I’m currently learning **Node.JS, React, Python, TypeScript**
 
