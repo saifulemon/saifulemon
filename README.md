@@ -42,6 +42,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=saifulemon&theme=yeblu&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=saifulemon&theme=yeblu&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=saifulemon&theme=yeblu&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/>
+<a href="https://github.com/saifulemon/github-readme-activity-graph"><img alt="saifulemon;s graph" src="https://activity-graph.herokuapp.com/graph?username=saifulemon&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=saifulemon&theme=radical&no-frame=true&no-bg=true&margin-w=4)
