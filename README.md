@@ -8,15 +8,13 @@
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saifulemon&label=Profile%20views&color=0e75b6&style=flat" alt="saifulemon" /> </p>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-# 💫 About Me :
-- 🌱 I’m currently learning **Node.JS, React, Python, TypeScript**
-
-- 👨‍💻 All of my projects are available at https://github.com/saifulemon
-
-- 💬 Ask me about **JavaScript, React, Bootstrap, HTML5, CSS3 **
-
-- 📫 How to reach me **463saiful0@gmail.com**
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" />
+<h1>💫 About Me :</h1>
+<br />
+<p>🌱 I’m currently learning **Node.JS, React, Python, TypeScript**</p>
+<p>👨‍💻 All of my projects are available at https://github.com/saifulemon</p>
+<p>💬 Ask me about **JavaScript, React, Bootstrap, HTML5, CSS3 **</p>
+<p>📫 How to reach me **463saiful0@gmail.com**</p>
 
 ## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/463saiful0/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saiful_emon1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saiful-emon) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/saifulemon20) 
