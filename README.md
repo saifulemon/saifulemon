@@ -32,7 +32,8 @@
 # <h3>📊 GitHub Stats :</h3>
 ![](https://github-readme-stats.vercel.app/api?username=saifulemon&theme=yeblu&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=saifulemon&theme=yeblu&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=saifulemon&theme=yeblu&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=520&langs_count=5&theme=yeblu&hide_border=false&username=saifulemon" height="150" alt="languages graph"  />
+
 <br/>
 
 ## <h3>🏆 GitHub Trophies</h3>
