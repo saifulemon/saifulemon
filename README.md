@@ -32,7 +32,7 @@
 # <h3>📊 GitHub Stats :</h3>
 ![](https://github-readme-stats.vercel.app/api?username=saifulemon&theme=yeblu&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=saifulemon&theme=yeblu&hide_border=false)<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=520&langs_count=5&theme=yeblu&hide_border=false&username=saifulemon" height="150" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=420&langs_count=11&theme=yeblu&hide_border=false&username=saifulemon" height="200" alt="languages graph"  />
 
 <br/>
 
