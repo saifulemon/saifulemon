@@ -5,6 +5,7 @@
 <br/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=saifulemon&label=Profile%20views&color=0e75b6&style=flat" alt="saifulemon" /> </p>
 <p align="center"> <a href="https://twitter.com/saifulemon20" target="blank"><img src="https://img.shields.io/twitter/follow/saifulemon20?logo=twitter&style=for-the-badge" alt="saifulemon20" /></a> </p>
+<hr />
 <h3>💫 About Me :</h3>
 🌱 I’m currently learning **NodeJs, ReactJs, Python**
 
@@ -16,7 +17,8 @@
 
 📄 Know about my experiences [https://www.linkedin.com/in/saiful-emon/](https://www.linkedin.com/in/saiful-emon/)
 <br />
-
+<br />
+<br />
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/saifulemon20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saifulemon20" height="30" width="40" /></a>
