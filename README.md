@@ -1,10 +1,9 @@
 <section align="center">
-  <h1 align="center">Hi <img src="https://github.com/saifulemon/saifulemon/blob/2d2b0b4c716e77ce3d655846321a9ca05f6efe21/Wave.gif" height="55px" width="55px">, I'm Saiful Emon</h1>
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=435&lines=JavaScript+Programmer;MERN+Stack+Developer;Frontend+Web+Developer;Always+Learning+new+things" alt="Typing SVG" /></a></h3>
+<h1 align="center">Hi <img src="https://github.com/saifulemon/saifulemon/blob/2d2b0b4c716e77ce3d655846321a9ca05f6efe21/Wave.gif" height="55px" width="55px">, I'm Saiful Emon</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFD00E&center=true&vCenter=true&width=435&lines=Frontend+Web+Developer;JavaScript+Programmer;React.js+Developer;Shopify+Expert" alt="Typing SVG" /></a>
 <p align="center"><img src="githubbanner.gif" width="700" height="350"  /></p>
 <br/>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=saifulemon&label=Profile%20views&color=0e75b6&style=flat" alt="saifulemon" /> </p>
-<p align="center"> <a href="https://twitter.com/saifulemon20" target="blank"><img src="https://img.shields.io/twitter/follow/saifulemon20?logo=twitter&style=for-the-badge" alt="saifulemon20" /></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=saifulemon&label=Profile%20views&color=0e75b6&style=flat" alt="saifulemon" /></p>
 <hr />
 <h3>💫 About Me :</h3>
 🌱 I’m currently learning **NodeJs, ReactJs, Python**
