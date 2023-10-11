@@ -4,7 +4,7 @@
 <p align="center"><img src="programiing.gif" width="400" height="250"  /></p>
 <br/>
 
-[![](https://visitcount.itsvg.in/api?id=saifulemon&icon=1&color=1)]
+![](https://visitcount.itsvg.in/api?id=saifulemon&icon=1&color=1)
   
 <hr />
 </section>  
