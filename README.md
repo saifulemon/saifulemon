@@ -1,5 +1,5 @@
 <section align="center">
-<h1 align="center">Hi <img src="https://github.com/saifulemon/saifulemon/blob/2d2b0b4c716e77ce3d655846321a9ca05f6efe21/Wave.gif" height="55px" width="55px">, I'm Saiful Emon</h1>
+<h1 align="center">Hi <img src="https://github.com/saifulemon/saifulemon/blob/main/Wave.gif" height="55px" width="55px"/>, I'm Saiful Emon</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFD00E&center=true&vCenter=true&width=435&lines=Frontend+Web+Developer;JavaScript+Programmer;React.js+Developer;Shopify+Expert" alt="Typing SVG" /></a>
 <p align="center"><img src="programiing.gif" width="400" height="250"  /></p>
 <br/>
