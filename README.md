@@ -3,8 +3,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFD00E&center=true&vCenter=true&width=435&lines=Frontend+Web+Developer;JavaScript+Programmer;React.js+Developer;Shopify+Expert" alt="Typing SVG" /></a>
 <p align="center"><img src="programiing.gif" width="400" height="250"  /></p>
 <br/>
----
-[![](https://visitcount.itsvg.in/api?id=saifulemon&icon=1&color=1)](https://visitcount.itsvg.in)
+
+![](https://visitcount.itsvg.in/api?id=saifulemon&icon=1&color=1)](https://visitcount.itsvg.in)
   
 <hr />
 </section>  
