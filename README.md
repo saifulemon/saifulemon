@@ -33,9 +33,14 @@
 <br/>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=saifulemon&theme=yeblu&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=saifulemon&theme=yeblu&hide_border=false)<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=420&langs_count=11&theme=yeblu&hide_border=false&username=saifulemon" height="200" alt="languages graph"  />
+<p align="left">
+ <a href="https://github.com/saifulemon"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saifulemon&theme=dark"></a>
+</p>
+<p align="left">
+  <a href="https://github.com/saifulemon"> <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=saifulemon&layout=compact&theme=radical" />
+</a>
+</p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=saifulemon&theme=synthwave&show_icons=true" alt="saifulemon" />
 
 <br/>
 
