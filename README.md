@@ -40,7 +40,24 @@
   <a href="https://github.com/saifulemon"> <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=saifulemon&layout=compact&theme=radical" />
 </a>
 </p>
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=saifulemon&theme=synthwave&show_icons=true" alt="saifulemon" />
+<p>
+  <a  href="https://github.com/saifulemon">
+
+<img src="https://raw.githubusercontent.com/saifulemon/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/saifulemon/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/saifulemon/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+
+</a>
+
+<details>
+  <summary>More stats</summary>
+  
+<img align="center" src="https://raw.githubusercontent.com/saifulemon/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
+
+</details>
+  
+<hr></hr>
+</p>
 
 <br/>
 
