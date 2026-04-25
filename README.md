@@ -1,74 +1,179 @@
-<section align="center">
-<h1 align="center">Hi<img src="Wave.gif" height="55" width="55" />, I'm Saiful Islam</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFD00E&center=true&vCenter=true&width=435&lines=Frontend+Web+Developer;JavaScript+Programmer;React.js+Developer;Next.js+Developer;Remix.js+Developer;Nest+Developer;Shopify+Expert" alt="Typing SVG" /></a>
-<p align="center"><img src="programiing.gif" width="400" height="250"  /></p>
-<br/>
+<!-- Wave Header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Saiful%20Islam&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend-Focused%20AI-Native%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%" alt="header"/>
+</div>
 
-![](https://visitcount.itsvg.in/api?id=saifulemon&icon=1&color=1)
-  
-<hr />
-</section>  
-
-# 💫 About Me:
-🔭 I’m currently working on CSS Animation<br><br>🌱 I’m currently learning Next.js<br><br>💬 Ask me about HTML, CSS, JavaScript, TypeScript, React<br><br>⚡ Fun fact I go to the GYM very often
-
-
-<br />
-
-
-## 🌐 Socials:
-<p>
-<a href="https://twitter.com/saifulemon20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saifulemon20" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/saiful-emon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saiful-emon" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/user:16245892" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:16245892" height="30" width="40" /></a>
-<a href="https://fb.com/dev.saifulemon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dev.saifulemon" height="30" width="40" /></a>
-<a href="https://instagram.com/dev.saifulemon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saiful_emon1" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/saifulemon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="saifulemon" height="30" width="40" /></a>
-</p>
-<br />
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<!-- Typing SVG -->
+<div align="center">
+  <a href="https://github.com/saifulemon">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+scalable+React+%26+Next.js+apps;Crafting+pixel-perfect+UIs+with+Tailwind;Shipping+production+SaaS+at+Potential+Inc.;AI-native+%E2%80%94+powered+by+Cursor+%26+Claude+Code" alt="Typing SVG" />
+  </a>
+</div>
 
 <br/>
 
-# 📊 GitHub Stats:
-<p align="left">
- <a href="https://github.com/saifulemon"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saifulemon&theme=dark"></a>
-</p>
-<p align="left">
-  <a href="https://github.com/saifulemon"> <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=saifulemon&layout=compact&theme=radical" />
-</a>
-</p>
-<p>
-  <a  href="https://github.com/saifulemon">
+## 👋 About Me
 
-<img src="https://raw.githubusercontent.com/saifulemon/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/saifulemon/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/saifulemon/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+```yaml
+name: Saiful Islam
+role: Jr. Frontend Developer @ Potential Inc.
+location: Dhaka, Bangladesh 🇧🇩
+education: BSc in CSE, Presidency University
+focus: React 19 · Next.js · Remix · TypeScript
+currently: Building production SaaS platforms with AI-native workflows
+mission: Transforming ideas into clean, maintainable, user-centric digital products
+```
 
-</a>
-
-<details>
-  <summary>More stats</summary>
-  
-<img align="center" src="https://raw.githubusercontent.com/saifulemon/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
-
-</details>
-  
-<hr></hr>
-</p>
+📫 **Reach me:** [dev.saifulemon@gmail.com](mailto:dev.saifulemon@gmail.com)
+🌐 **Portfolio:** [saiful-portfolio.vercel.app](https://github.com/saifulemon)
+💼 **LinkedIn:** [linkedin.com/in/saiful-emon](https://www.linkedin.com/in/saiful-emon/)
 
 <br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+## 🛠️ Tech Stack
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=saifulemon&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Remix](https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
+### Tools & AI
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saifulemon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=22D3EE" height="170" alt="stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=saifulemon&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=22D3EE&currStreakLabel=3B82F6" height="170" alt="streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifulemon&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&langs_count=8" height="170" alt="top langs"/>
+</div>
+
+<br/>
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🏋️ [The Coaching Record](https://mobile.thecoachingrecord.com/)
+Production fitness coaching SaaS platform.
+
+- Workout tracking, team management, real-time chat
+- Redux for auth, notifications & payments
+- Modular service-based architecture with SSR
+
+`React 19` `Router 7` `Redux Toolkit` `TypeScript` `WebSocket`
+
+</td>
+    <td width="50%" valign="top">
+
+### 🛍️ [Falette Shop](https://shop.falette.co/)
+Custom fabric e-commerce with made-to-order sizing.
+
+- Real-time price calculation by user dimensions
+- Filtering by color, pattern, style
+- Google Analytics + Naver WCS tracking
+
+`Next.js` `TypeScript` `Tailwind` `Redux Toolkit`
+
+</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### ⚡ [iipuda](https://iipuda.vercel.app/)
+Remix.js web view app with SSR.
+
+- Nested routing & loader/action patterns
+- Optimized Vercel deployment
+- Progressive enhancement support
+
+`Remix.js` `TypeScript` `Tailwind` `Vite`
+
+</td>
+    <td width="50%" valign="top">
+
+### 🦷 [Donto](https://donto-cikitsha.netlify.app/)
+Dental clinic web app with Firebase auth.
+
+- Service listings & appointment section
+- Secure Firebase authentication
+- Fully responsive medical UI
+
+`React` `TypeScript` `Tailwind` `Firebase`
+
+</td>
+  </tr>
+</table>
+
+<br/>
+
+## 💼 Experience
+
+**Jr. Frontend Developer** · Potential Inc. · *July 2024 – Present*
+Building features with React, Next.js, Remix, Redux, NestJS & PostgreSQL. Creating reusable components, optimizing rendering, and using AI tools (Cursor, Claude Code, Copilot) to accelerate delivery.
+
+**Web Developer** · Taqwa Real Estate & Construction Ltd. · *April 2024 – August 2024*
+Developed and maintained websites using WordPress and Shopify.
+
+<br/>
+
+## 📈 Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saifulemon&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=22D3EE&point=ffffff" width="100%" alt="activity graph"/>
+</div>
+
+<br/>
+
+## 🤝 Connect With Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/saiful-emon/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:dev.saifulemon@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.facebook.com/dev.saifulemon/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://github.com/saifulemon">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
+
+<br/>
+
+<!-- Visitor Counter -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=saifulemon&label=Profile%20views&color=3B82F6&style=for-the-badge" alt="profile views"/>
+</div>
+
+<!-- Wave Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" width="100%" alt="footer"/>
+</div>
